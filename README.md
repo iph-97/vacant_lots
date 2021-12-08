@@ -1,4 +1,4 @@
-# Data and Programming for Public Policy II
+# Data and Programming for Public Policy II Final Project
 # PPHA 30536
 
 
@@ -7,6 +7,7 @@
 
 
 ## Due: Tuesday, December 7th by midnight on GitHub
+## Completed with partners Jason Winick and Kashif Ahmed
 
 ### Project Description:
 The goal of this project is to showcase your knowledge of Python by applying it to a 
